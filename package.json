@@ -33,7 +33,7 @@
     "redux-thunk": "^2.3.0",
     "rn-fetch-blob": "^0.10.16",
     "sugar": "^2.0.6",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
